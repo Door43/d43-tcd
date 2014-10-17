@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcd:home|Door43 (tcd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcd|d43-tcd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcd/archive/master.zip|d43-tcd.zip]]
+
+**Recent Changes**
+{{changes>ns = tcd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcd|Ethnologue data]]
+
